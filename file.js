@@ -1,0 +1,16 @@
+let student_Name = "Rozy";
+let age = 19;
+let marks = 60;
+const birthYear = 2007;
+const courseName = "BCA";
+var collegeName = "SITM";
+let semester = 2;
+const FavouriteSubject = "English";
+console.log(student_Name);
+console.log(age);
+console.log(marks);
+console.log(birthYear);
+console.log(courseName);
+console.log(collegeName);
+console.log(semester);
+console.log(FavouriteSubject);
