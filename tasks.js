@@ -19,3 +19,7 @@ function getMenuChoice(choice) {
   }
   return result;
 }
+
+console.log(getMenuChoice(1)); 
+console.log(getMenuChoice(3)); 
+console.log(getMenuChoice(9)); 
